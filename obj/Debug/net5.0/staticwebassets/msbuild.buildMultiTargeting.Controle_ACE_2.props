@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Controle_ACE_2.props" />
+</Project>
